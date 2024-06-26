@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify, render_template
 from flask_socketio import SocketIO, join_room, leave_room, send, emit
 import random
 import string
+import unicodedata
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'your_secret_key'
@@ -17,6 +18,14 @@ categories_files = {
     "Fruits": "mots/fruits.txt",
     "Prénoms": "mots/prenoms.txt"
 }
+
+# Fonction pour normaliser une chaîne de caractères (en minuscules, sans accents)
+def normalize_string(s):
+    if s is None:
+        return ''
+    return ''.join(c for c in unicodedata.normalize('NFD', s.lower()) if c in string.ascii_lowercase)
+
+
 
 # Fonction pour obtenir une lettre aléatoire
 def obtenir_lettre_aleatoire():
@@ -70,6 +79,8 @@ def join_game():
         })
     return jsonify({"error": "Room not found"}), 404
 
+
+
 @socketio.on('submit_response')
 def handle_response(data):
     room_id = data.get('room_id')
@@ -79,14 +90,19 @@ def handle_response(data):
     if room_id in rooms and player_id in rooms[room_id]['players']:
         valid_responses = {}
         for category, response in responses.items():
-            if response in lire_mots(category):
-                valid_responses[category] = response
+            normalized_response = normalize_string(response)
+            if normalized_response:
+                words_in_category = [normalize_string(word) for word in lire_mots(category)]
+                
+                if normalized_response in words_in_category:
+                    valid_responses[category] = response
         
         rooms[room_id]['responses'][player_id] = valid_responses
         updated_responses = rooms[room_id]['responses']
         emit('update_responses', updated_responses, room=room_id)
     else:
         emit('invalid_response', {"error": "Invalid room or player"})
+
 
 @socketio.on('join')
 def on_join(data):
