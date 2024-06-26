@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Petit Bac</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</head>
+<body>
+    <h1>Petit Bac</h1>
+    
+<!-- defaut menu -->
+    <div id="game">
+        <div id="create_join">
+            <label for="player_name">Enter Your Player Name:</label>
+            <input type="text" id="player_name" placeholder="Player Name">
+            <br><br>
+            <button onclick="createGame()">Create Game</button>
+            <br><br>
+            <label for="room_id">Room ID:</label>
+            <input type="text" id="room_id" placeholder="Room ID">
+            <button onclick="joinGame()">Join Game</button>
+        </div>
+
+     
+<!-- game area here -->
+        <div id="game_area" style="display:none;">
+            <h2>Room: <span id="room_id_display"></span></h2>
+            <h2>Letter: <span id="letter"></span></h2>
+            <h3>Categories:</h3>
+            <div id="response_fields"></div>
+            <br>
+            <button onclick="submitResponse()">Submit Response</button>
+            <br><br>
+            <div id="responses">
+                <!-- Responses will be dynamically updated here -->
+            </div>
+            <br><br>
+            <div id="players_list">
+                <p><strong>Players in the Room:</strong></p>
+            </div>
+            <br><br>
+            <button onclick="leaveGame()">Leave Game</button>
+        </div>
+    </div>
+</body>
+</html>
