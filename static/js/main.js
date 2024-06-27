@@ -1,8 +1,7 @@
 var socket = io();
 var playerId;
 var room_id; // Variable pour stocker l'ID de la salle actuelle
-
-
+var player_name;
 
 // Function Create game
 function createGame() {
@@ -19,6 +18,9 @@ function createGame() {
         document.getElementById('room_id_display').innerText = room_id;
         document.getElementById('letter').innerText = data.letter;
 
+
+        
+
         const responseFieldsDiv = document.getElementById('response_fields'); // Génère les champs de réponse pour chaque catégorie retournée par le serveur
         responseFieldsDiv.innerHTML = '';
         data.categories.forEach(category => {
@@ -28,10 +30,10 @@ function createGame() {
                 <br>
             `;
         });
-
+        alert('Voici le n° de la room : ' + room_id);
         // Masquer le formulaire de création/join et afficher la zone de jeu
-        document.getElementById('create_join').style.display = 'none';
-        document.getElementById('game_area').style.display = 'block';
+        //document.getElementById('create_join').style.display = 'none';
+        //document.getElementById('game_area').style.display = 'block';
 
 
     })
