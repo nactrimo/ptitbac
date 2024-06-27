@@ -30,7 +30,7 @@ function createGame() {
                 <br>
             `;
         });
-        alert('Voici le n° de la room : ' + room_id + ', la lettre est : ' + letter);
+        alert('Voici le n° de la room : ' + room_id + '\nLa lettre est : ' + data.letter);
         // Masquer le formulaire de création/join et afficher la zone de jeu
         //document.getElementById('create_join').style.display = 'none';
         //document.getElementById('game_area').style.display = 'block';
