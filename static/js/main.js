@@ -126,7 +126,7 @@ socket.on('update_responses', function(responses) {
     for (var playerId in responses) {
         if (responses.hasOwnProperty(playerId)) {
             var playerResponses = responses[playerId];
-            var responseText = `<p><strong>Réponses de ${escapeHtml(player_name)}:</strong></p>`;
+            var responseText = `<p><strong>Réponses de ${escapeHtml(playerId)}:</strong></p>`;
             for (var category in playerResponses) {
                 if (playerResponses.hasOwnProperty(category)) {
                     var response = playerResponses[category];
