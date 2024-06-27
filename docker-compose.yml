@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  ptibac:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./ptibac:/app
+    environment:
+      FLASK_ENV: production
+      FLASK_APP: app.py
+    command: ["python", "app.py"]
