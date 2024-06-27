@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify, render_template
 from flask_socketio import SocketIO, join_room, leave_room, send, emit
+from markupsafe import escape
 import random
 import string
 import unicodedata
@@ -16,6 +17,8 @@ categories_files = {
     "Animaux": "mots/animaux.txt",
     "Pays": "mots/pays.txt",
     "Fruits": "mots/fruits.txt",
+    "Départements": "mots/Departement.txt",
+    "Capitale": "mots/Capitale.txt",
     "Prénoms": "mots/prenoms.txt"
 }
 
@@ -66,7 +69,7 @@ def start_game():
 @app.route('/join_game', methods=['POST'])
 def join_game():
     room_id = request.json.get('room_id')
-    player_name = request.json.get('player_name')
+    player_name = escape(request.json.get('player_name'))
     if room_id in rooms:
         player_id = len(rooms[room_id]['players']) + 1
         rooms[room_id]['players'][player_id] = player_name
@@ -95,7 +98,7 @@ def handle_response(data):
                 words_in_category = [normalize_string(word) for word in lire_mots(category)]
                 
                 if normalized_response in words_in_category:
-                    valid_responses[category] = response
+                    valid_responses[category] = escape(response)
         
         rooms[room_id]['responses'][player_id] = valid_responses
         updated_responses = rooms[room_id]['responses']

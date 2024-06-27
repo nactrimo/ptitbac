@@ -1,5 +1,4 @@
-﻿name_fr
-Canada
+﻿Canada
 Mali
 Îles Mariannes du Nord
 Soudan
@@ -51,6 +50,7 @@ Maldives
 Niger
 Nicaragua
 Territoires palestiniens
+palestine
 Taïwan
 Argentine
 Colombie
@@ -213,7 +213,4 @@ Porto Rico
 Qatar
 Slovaquie
 Togo
-UkraineTest
-Test
-Test
-Test
+Ukraine

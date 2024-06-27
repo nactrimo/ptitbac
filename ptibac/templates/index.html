@@ -9,15 +9,15 @@
 </head>
 <body>
     <h1>Petit Bac</h1>
-    
+
 <!-- defaut menu -->
     <div id="game">
         <div id="create_join">
+            <button onclick="createGame()">Create Game</button>
+            <br><br><br>
             <label for="player_name">Enter Your Player Name:</label>
             <input type="text" id="player_name" placeholder="Player Name">
-            <br><br>
-            <button onclick="createGame()">Create Game</button>
-            <br><br>
+            <br>
             <label for="room_id">Room ID:</label>
             <input type="text" id="room_id" placeholder="Room ID">
             <button onclick="joinGame()">Join Game</button>
@@ -39,6 +39,9 @@
             <br><br>
             <div id="players_list">
                 <p><strong>Players in the Room:</strong></p>
+                {% for player in players %}
+                    <p>{{ player|e }}</p>
+                {% endfor %}
             </div>
             <br><br>
             <button onclick="leaveGame()">Leave Game</button>
