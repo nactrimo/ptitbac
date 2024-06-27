@@ -1,5 +1,4 @@
-﻿01_prenom
-aaliyah
+﻿aaliyah
 aapeli
 aapo
 aaren
@@ -11,7 +10,7 @@ aatto
 aatu
 abaddon
 abbán
-'abbas
+abbas
 abbey
 abbie
 abby
@@ -48,7 +47,7 @@ abisai
 abishag
 abishai
 abital
-'abla
+abla
 abner
 abraham
 abram
@@ -140,8 +139,7 @@ aemilia
 aeneas
 aengus
 aeolus
-aeron (1)
-aeron (2)
+aeron
 aeronwen
 aeronwy
 æsc
@@ -199,7 +197,6 @@ agrippina
 agrona
 águeda
 agustín
-ah
 ahab
 aharon
 ahmad
@@ -209,8 +206,6 @@ ahriman
 ahtahkakoop
 ahura mazda
 ahuva
-ai (1)
-ai (2)
 aias
 aida
 aidan
@@ -239,7 +234,7 @@ ainsley
 ainslie
 aintzane
 aiolos
-'aisha
+aisha
 aislin
 aisling
 aislinn
@@ -353,8 +348,7 @@ alexei
 alexej
 alexia
 alexina
-alexis (1)
-alexis (2)
+alexis
 alexius
 alexus
 alf
@@ -379,8 +373,7 @@ alicia
 alida
 aliisa
 alin
-alina (1)
-alina (2)
+alina
 aline
 alis
 alisa
@@ -466,10 +459,8 @@ amabel
 amada
 amadeo
 amadeus
-amadi (1)
-amadi (2)
-amal (1)
-amal (2)
+amadi
+amal
 amala
 amália
 amalia
@@ -527,8 +518,7 @@ amin
 amina
 aminda
 aminta
-amir (1)
-amir (2)
+amir
 amira
 amita
 amittai
@@ -553,8 +543,7 @@ anaïs
 anaitis
 anakin
 anakoni
-anan (1)
-anan (2)
+anan
 anand
 ananda
 anani
@@ -576,8 +565,7 @@ anastasius
 anasztáz
 anasztázia
 anat
-anath (1)
-anath (2)
+anath
 anatole
 anatoli
 anatolius
@@ -596,8 +584,7 @@ andrás
 andras
 andraste
 andré
-andrea (1)
-andrea (2)
+andrea
 andreas
 andrée
 andreea
@@ -654,8 +641,7 @@ aniela
 anika
 aniketos
 anikó
-anima (1)
-anima (2)
+anima
 aniruddha
 anisa
 anise
@@ -812,8 +798,7 @@ arevig
 argus
 argyris
 argyros
-ari (1)
-ari (2)
+ari
 aria
 ariadne
 ariana
@@ -866,8 +851,7 @@ arnau
 arnaud
 arnaude
 arndt
-arne (1)
-arne (2)
+arne
 arnie
 arnold
 aroha
@@ -980,12 +964,10 @@ aubrey
 aude
 audie
 audley
-audra (1)
-audra (2)
+audra
 audrea
 audrey
-august (1)
-august (2)
+august
 augusta
 auguste
 augustijn
@@ -1016,8 +998,7 @@ austen
 austin
 austyn
 autumn
-ava (1)
-ava (2)
+ava
 avalon
 avdotya
 avedis
@@ -1053,9 +1034,7 @@ ayelet
 ayesha
 aygül
 ayishah
-ayla (1)
-ayla (2)
-ayla (3)
+ayla
 aylmer
 ayn
 ayo
@@ -1121,8 +1100,7 @@ balthazar
 bambi
 bandi
 banu
-bao (1)
-bao (2)
+bao
 baptist
 baptiste
 baqir
@@ -1167,8 +1145,7 @@ basant
 basemath
 bashe
 bashemath
-basia (1)
-basia (2)
+basia
 basil
 basile
 basilio
@@ -1308,8 +1285,7 @@ bernice
 bernie
 berniece
 bernt
-berry (1)
-berry (2)
+berry
 bert
 berta
 bertalan
@@ -1338,8 +1314,7 @@ betrys
 betsy
 bette
 bettie
-bettina (1)
-bettina (2)
+bettina
 bettino
 betty
 bettye
@@ -1406,8 +1381,7 @@ blondie
 blossom
 bluma
 blythe
-bo (1)
-bo (2)
+bo
 boadicea
 boaz
 bob
@@ -1476,8 +1450,7 @@ braiden
 braidy
 braith
 bram
-bran (1)
-bran (2)
+bran
 brand
 branda
 brande
@@ -1658,8 +1631,7 @@ callias
 callie
 calliope
 callista
-callisto (1)
-callisto (2)
+callisto
 callistus
 callum
 calogera
@@ -2346,10 +2318,8 @@ damien
 damion
 damodar
 damon
-dan (1)
-dan (2)
-dana (1)
-dana (2)
+dan
+dana
 danaë
 danail
 dand
@@ -2375,9 +2345,7 @@ danut
 danuta
 danya
 daphne
-dara (1)
-dara (2)
-dara (3)
+dara
 darach
 darby
 darcey
@@ -2496,8 +2464,7 @@ delwyn
 delyth
 dema
 demelza
-demeter (1)
-demeter (2)
+demeter
 demetria
 demetrio
 demetrios
@@ -2620,8 +2587,7 @@ dilshad
 dilwen
 dilwyn
 dilys
-dima (1)
-dima (2)
+dima
 dimitar
 dimitri
 dina
@@ -2877,8 +2843,7 @@ edmonda
 edmondo
 edmund
 edmundo
-edna (1)
-edna (2)
+edna
 edoardo
 edom
 édouard
@@ -3027,8 +2992,7 @@ eliseo
 elisha
 elisheba
 elisheva
-elissa (1)
-elissa (2)
+elissa
 elisud
 elita
 eliud
@@ -3039,20 +3003,17 @@ elizabeth
 elizaveta
 elkan
 elkanah
-elke (1)
-elke (2)
+elke
 ella
 ellar
 elle
 ellen
 ellery
-elli (1)
-elli (2)
+elli 
 ellie
 elliot
 elliott
-ellis (1)
-ellis (2)
+ellis 
 elly
 elma
 elmas
@@ -3347,8 +3308,7 @@ evadne
 evaline
 evalyn
 evan
-evander (1)
-evander (2)
+evander
 evangelina
 evangeline
 evangelos
@@ -3783,8 +3743,7 @@ gabr
 gábriel
 gabriel
 gabriela
-gabriele (1)
-gabriele (2)
+gabriele
 gabriella
 gabrielle
 gad
@@ -3967,8 +3926,7 @@ gertrudes
 gertrudis
 gertruida
 gervais
-gervaise (1)
-gervaise (2)
+gervaise
 gervas
 gervase
 gervasio
@@ -4016,9 +3974,7 @@ giffard
 gigi
 gijs
 gijsbert
-gil (1)
-gil (2)
-gil (3)
+gil
 gilad
 gilah
 gilbert
@@ -4035,8 +3991,7 @@ gillespie
 gillian
 gillis
 gilroy
-gina (1)
-gina (2)
+gina
 ginette
 ginevra
 ginger
@@ -4280,8 +4235,7 @@ günther
 gunther
 guntram
 gunvor
-gus (1)
-gus (2)
+gus
 gussie
 gusta
 gustaf
@@ -4393,8 +4347,7 @@ hallam
 halldór
 halldor
 halldóra
-halle (1)
-halle (2)
+halle
 hallie
 hallvard
 halstein
@@ -4508,8 +4461,7 @@ heather
 heaven
 hebe
 hebel
-heber (1)
-heber (2)
+heber
 hecate
 heck
 heckie
@@ -4744,8 +4696,7 @@ hugh
 hughie
 hugo
 hugues
-hulda (1)
-hulda (2)
+hulda
 huldah
 humbert
 humphrey
@@ -5154,8 +5105,7 @@ jahzeel
 jai
 jaiden
 jaidev
-jaime (1)
-jaime (2)
+jaime
 jair
 jairus
 jaka
@@ -5181,8 +5131,7 @@ james
 jamesina
 jamey
 jami
-jamie (1)
-jamie (2)
+jamie
 jamil
 jamila
 jamin
@@ -5190,8 +5139,7 @@ jamison
 jamshad
 jamshed
 jamsheed
-jan (1)
-jan (2)
+jan
 jana
 janae
 janan
@@ -5218,12 +5166,10 @@ janie
 janika
 janina
 janine
-janis (1)
-janis (2)
+janis
 janna
 jannah
-janne (1)
-janne (2)
+janne
 janneke
 jannick
 jannike
@@ -5274,8 +5220,7 @@ javor
 jawahir
 jawdat
 jaxon
-jay (1)
-jay (2)
+jay
 jaya
 jayant
 jayanti
@@ -5301,8 +5246,7 @@ jayson
 jaywant
 jazmin
 jazmine
-jean (1)
-jean (2)
+jean
 jeana
 jean-baptiste
 jeane
@@ -5399,8 +5343,7 @@ jesse
 jessenia
 jessi
 jessica
-jessie (1)
-jessie (2)
+jessie
 jessika
 jessye
 jesús
@@ -5439,8 +5382,7 @@ jo
 joab
 joachim
 joakim
-joan (1)
-joan (2)
+joan
 joana
 joandra
 joann
@@ -5509,21 +5451,18 @@ jolene
 jolie
 jolyon
 jón
-jon (1)
-jon (2)
+jon
 jóna
 jonah
 jónas
-jonas (1)
-jonas (2)
+jonas
 jónatan
 jonatan
 jonathan
 jonathon
 jonelle
 jonette
-joni (1)
-joni (2)
+joni
 jonie
 jonna
 jonny
@@ -5633,8 +5572,7 @@ juhana
 juhani
 juho
 jukka
-jules (1)
-jules (2)
+jules
 juli
 júlia
 julia
@@ -5709,8 +5647,7 @@ kaelea
 kaelee
 kaety
 kagiso
-kai (1)
-kai (2)
+kai
 kaia
 kaija
 kaila
@@ -5753,13 +5690,11 @@ kalypso
 kalysta
 kam
 kama
-kamal (1)
-kamal (2)
+kamal
 kamala
 kamaria
 kameron
-kamil (1)
-kamil (2)
+kamil
 kamila
 kamilla
 kamryn
@@ -5784,8 +5719,7 @@ karen
 karena
 karenza
 karesinda
-kari (1)
-kari (2)
+kari
 karim
 karima
 karin
@@ -5873,8 +5807,7 @@ katya
 kausalya
 kaveri
 kawacatoose
-kay (1)
-kay (2)
+kay
 kaycee
 kaye
 kayetan
@@ -5941,8 +5874,7 @@ kelsi
 kelsie
 kelvin
 kemp
-ken (1)
-ken (2)
+ken
 kenan
 kenaniah
 kendal
@@ -6040,9 +5972,7 @@ kiley
 kilian
 kilie
 killian
-kim (1)
-kim (2)
-kim (3)
+kim
 kimball
 kimberlee
 kimberleigh
@@ -6173,8 +6103,7 @@ kristal
 kristaps
 kristeen
 kristel
-kristen (1)
-kristen (2)
+kristen
 krister
 kristi
 kristia
@@ -6354,8 +6283,7 @@ laurel
 laurelle
 lauren
 laurena
-laurence (1)
-laurence (2)
+laurence
 laurencia
 laurenço
 laurene
@@ -6480,8 +6408,7 @@ leonard
 leonardo
 léonce
 leoncio
-leone (1)
-leone (2)
+leone
 leonhard
 leonid
 leonidas
@@ -6593,8 +6520,7 @@ lilo
 lily
 lim
 lin
-lina (1)
-lina (2)
+lina
 linas
 lincoln
 linda
@@ -6636,8 +6562,7 @@ lisha
 lissa
 lita
 liv
-livia (1)
-livia (2)
+livia
 liviana
 livio
 liviu
@@ -6763,8 +6688,7 @@ lubna
 lubomierz
 lubomir
 luc
-luca (1)
-luca (2)
+luca
 lúcás
 lucas
 lucasta
@@ -6977,8 +6901,7 @@ mahomet
 mahon
 mahvash
 mai
-maia (1)
-maia (2)
+maia
 maighread
 maija
 maike
@@ -7071,8 +6994,7 @@ manus
 manya
 maoilios
 maquinna
-mara (1)
-mara (2)
+mara
 marajha
 maral
 maralyn
@@ -7140,14 +7062,11 @@ mariabella
 mariah
 mariam
 mariamne
-marian (1)
-marian (2)
-marian (3)
+marian
 mariana
 mariangela
 marianna
-marianne (1)
-marianne (2)
+marianne
 mariano
 marianus
 maribel
@@ -7181,8 +7100,7 @@ marine
 marino
 marinus
 mario
-marion (1)
-marion (2)
+marion
 maris
 marisa
 marise
@@ -7225,8 +7143,7 @@ marlyn
 marmaduke
 marna
 marni
-marnie (1)
-marnie (2)
+marnie
 marquis
 marquise
 marquita
@@ -7325,8 +7242,7 @@ maud
 maude
 maudie
 mauno
-maura (1)
-maura (2)
+maura
 maureen
 maurene
 mauri
@@ -7356,8 +7272,7 @@ maximus
 maxine
 maxwell
 may
-maya (1)
-maya (2)
+maya
 maybelle
 maybelline
 mayim
@@ -7420,12 +7335,10 @@ melchior
 melchiorre
 melchor
 mele
-melek (1)
-melek (2)
+melek
 melesina
 melete
-melia (1)
-melia (2)
+melia
 melicent
 melina
 melinda
@@ -7509,8 +7422,7 @@ micajah
 michaël
 michael
 michaela
-michal (1)
-michal (2)
+michal
 michalina
 michayla
 mícheál
@@ -7685,9 +7597,7 @@ mojisola
 mokosh
 mollie
 molly
-mona (1)
-mona (2)
-mona (3)
+mona
 monat
 monday
 monet
@@ -7826,16 +7736,14 @@ nada
 nadejda
 nader
 nadezhda
-nadia (1)
-nadia (2)
+nadia
 nadim
 nadine
 nadir
 nadira
 nadja
 nadra
-nadya (1)
-nadya (2)
+nadya
 nadzeija
 nagendra
 nagi
@@ -7874,8 +7782,7 @@ naoise
 naoko
 naomh
 naomhán
-naomi (1)
-naomi (2)
+naomi
 naphtali
 napier
 napoleon
@@ -7951,8 +7858,7 @@ nelson
 nelu
 nemesis
 nena
-neo (1)
-neo (2)
+neo
 neoptolemus
 nephele
 neptune
@@ -7965,12 +7871,9 @@ nerida
 nerina
 nerio
 nerissa
-nero (1)
-nero (2)
+nero
 nerys
-nessa (1)
-nessa (2)
-nessa (3)
+nessa
 nesta
 nestor
 nestore
@@ -7999,8 +7902,7 @@ ngozi
 nguyen
 nguyet
 nhung
-nia (1)
-nia (2)
+nia
 niall
 niamh
 nibori
@@ -8019,8 +7921,7 @@ nicodème
 nicodemo
 nicodemus
 nicol
-nicola (1)
-nicola (2)
+nicola
 nicolae
 nicolao
 nicolaos
@@ -8038,8 +7939,7 @@ nicomedo
 nicostrato
 nicu
 nicusor
-niels (1)
-niels (2)
+niels
 nieve
 nieves
 nigel
@@ -8080,8 +7980,7 @@ nilofer
 niloofar
 nils
 nimbus
-nina (1)
-nina (2)
+nina
 ninel
 ninette
 ning
@@ -8105,8 +8004,7 @@ nkruma
 nnamdi
 noa
 noach
-noah (1)
-noah (2)
+noah
 noak
 noam
 noble
@@ -8396,12 +8294,10 @@ oved
 ovid
 ovidiu
 owain
-owen (1)
-owen (2)
+owen
 owena
 oxana
-oz (1)
-oz (2)
+oz
 ozan
 ozanne
 özgür
@@ -8951,8 +8847,7 @@ raine
 rainer
 rainerio
 rainier
-raisa (1)
-raisa (2)
+raisa
 raisel
 raj
 raja
@@ -9043,8 +8938,7 @@ raymond
 raymonde
 raymund
 raymundo
-rayna (1)
-rayna (2)
+rayna
 raynard
 rayner
 raza
@@ -9096,8 +8990,7 @@ reid
 reijo
 reimund
 rein
-reina (1)
-reina (2)
+reina
 reinaldo
 reine
 reiner
@@ -9263,11 +9156,9 @@ roeland
 rogelio
 roger
 rogerio
-rohan (1)
-rohan (2)
+rohan
 rohesia
-roi (1)
-roi (2)
+roi
 roibeard
 róis
 róisín
@@ -9300,8 +9191,7 @@ romola
 romolo
 romulus
 romy
-ron (1)
-ron (2)
+ron
 rona
 ronald
 ronalda
@@ -9310,8 +9200,7 @@ rónán
 ronda
 ronen
 rong
-roni (1)
-roni (2)
+roni
 ronit
 ronnette
 ronnie
@@ -9743,8 +9632,7 @@ serrena
 servius
 sesto
 set
-seth (1)
-seth (2)
+seth
 sethunya
 seumas
 sevan
@@ -9763,8 +9651,7 @@ sextus
 seymour
 shachar
 shad
-shadi (1)
-shadi (2)
+shadi
 shadrach
 shadya
 shae
@@ -9839,8 +9726,7 @@ shawn
 shawna
 shawnda
 shawnee
-shay (1)
-shay (2)
+shay
 shayla
 shayna
 shaynah
@@ -10000,8 +9886,7 @@ simin
 simo
 simon
 simona
-simone (1)
-simone (2)
+simone
 simonetta
 simonette
 sinclair
@@ -10059,8 +9944,7 @@ sofiya
 sofronio
 sohail
 sohrab
-sol (1)
-sol (2)
+sol
 solange
 soledad
 solly
@@ -10392,8 +10276,7 @@ tanya
 tanzi
 tapani
 tapio
-tara (1)
-tara (2)
+tara
 taranis
 taras
 tarek
@@ -10618,8 +10501,7 @@ timaeus
 tímea
 timeus
 timmy
-timo (1)
-timo (2)
+timo
 timofei
 timon
 timotei
@@ -10668,8 +10550,7 @@ toivo
 tola
 tolly
 tom
-toma (1)
-toma (2)
+toma
 tòmas
 tomás
 tomas
@@ -10687,8 +10568,7 @@ tommie
 tommy
 tomos
 tondra
-toni (1)
-toni (2)
+toni
 tonia
 tonio
 tonka
@@ -10705,8 +10585,7 @@ torbjörn
 torborg
 torcall
 tordis
-tore (1)
-tore (2)
+tore
 torgeir
 torger
 torhild
@@ -10785,8 +10664,7 @@ tryphon
 tryphosa
 trystan
 tsholofelo
-tu (1)
-tu (2)
+tu
 tuan
 tuathal
 tucker
@@ -10925,8 +10803,7 @@ valencia
 valentín
 valentin
 valentina
-valentine (1)
-valentine (2)
+valentine
 valentino
 valère
 valéria
@@ -10948,8 +10825,7 @@ valora
 valorie
 valter
 valtteri
-van (1)
-van (2)
+van
 vanamo
 vance
 vanda
@@ -11045,8 +10921,7 @@ vico
 victoire
 víctor
 victor
-victoria (1)
-victoria (2)
+victoria
 victorine
 victorino
 victorius
@@ -11283,8 +11158,7 @@ winton
 wiremu
 wisdom
 wislaw
-witold (1)
-witold (2)
+witold
 wladyslaw
 wlodek
 wlodzimierz
@@ -11451,8 +11325,7 @@ yuliana
 yuliya
 yumi
 yun
-yuri (1)
-yuri (2)
+yuri
 yuriy
 yusef
 yushua
